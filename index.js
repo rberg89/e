@@ -1,4 +1,4 @@
-const EXEC_LIMIT = 100000000;
+const EXEC_LIMIT = 10000000;
 
 function e(x, y, i) {
   i++;
