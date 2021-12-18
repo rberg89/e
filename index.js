@@ -4,7 +4,7 @@ function e(x, y, i) {
   i++;
   x += y;
   if (x+y <= 1) {
-    return e(x, Math.random(), i)
+    return e(x, Math.random(), i);
   } else {
     return i;
   }
